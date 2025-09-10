@@ -1,1 +1,3 @@
-# ExemploGit02
+# Trabalhando com git
+- Aplicando codigos iniciais; 
+- Clonando repositorio;
